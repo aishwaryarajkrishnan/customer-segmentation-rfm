@@ -131,7 +131,7 @@ To make the analysis actionable, each segment was mapped to a business strategy:
 
 * A large portion of revenue (~74%) comes from high-value customers
 * Customer engagement (frequency) is strongly linked to spending
-* Low-value and at-risk customers show significantly higher churn
+* Low-value and at-risk customers exhibit significantly higher churn rates
 * High-value customers are stable and should be prioritized for retention
 
 ---
